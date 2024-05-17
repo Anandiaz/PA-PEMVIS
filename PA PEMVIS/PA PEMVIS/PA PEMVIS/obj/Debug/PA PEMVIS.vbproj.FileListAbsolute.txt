@@ -1,0 +1,158 @@
+D:\Kampus\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.exe.config
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.exe.config
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.exe
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.pdb
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.xml
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Resources.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.vbproj.GenerateResource.Cache
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.exe
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.xml
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.pdb
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\mysql.data.dll
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.vbprojResolveAssemblyReference.cache
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.LihatBarang.resources
+D:\Kampus\Semester 4\Praktikum\Pemvis\PDF\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.exe.config
+D:\Kampus\Semester 4\Praktikum\Pemvis\PDF\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.exe
+D:\Kampus\Semester 4\Praktikum\Pemvis\PDF\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.xml
+D:\Kampus\Semester 4\Praktikum\Pemvis\PDF\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.pdb
+D:\Kampus\Semester 4\Praktikum\Pemvis\PDF\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.exe
+D:\Kampus\Semester 4\Praktikum\Pemvis\PDF\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.pdb
+D:\Kampus\Semester 4\Praktikum\Pemvis\PDF\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.xml
+D:\Kampus\Semester 4\Praktikum\Pemvis\PDF\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.vbprojResolveAssemblyReference.cache
+D:\Kampus\Semester 4\Praktikum\Pemvis\PDF\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.LihatBarang.resources
+D:\Kampus\Semester 4\Praktikum\Pemvis\PDF\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Resources.resources
+D:\Kampus\Semester 4\Praktikum\Pemvis\PDF\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.vbproj.GenerateResource.Cache
+D:\Kampus\Semester 4\Praktikum\Pemvis\PDF\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Login.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Regis.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.TambahBarang.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Login.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Toko.resources
+D:\Kampus\Semester 4\Praktikum\Pemvis\PDF\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.MenuUser.resources
+D:\Kampus\Semester 4\Praktikum\Pemvis\PDF\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.TambahBarang.resources
+D:\Kampus\Semester 4\Praktikum\Pemvis\PDF\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Regis.resources
+D:\Kampus\Semester 4\Praktikum\Pemvis\PDF\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Toko.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.exe.config
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.exe
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.xml
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.pdb
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.exe
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.pdb
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.xml
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\mysql.data.dll
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.vbprojResolveAssemblyReference.cache
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Keranjang.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.MenuUser.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.TambahBarang.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.LihatBarang.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Login.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Resources.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Regis.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Toko.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.vbproj.GenerateResource.Cache
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.DetailBarang.resources
+C:\Users\marnk\Downloads\Video\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.exe.config
+C:\Users\marnk\Downloads\Video\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.exe
+C:\Users\marnk\Downloads\Video\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.xml
+C:\Users\marnk\Downloads\Video\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.pdb
+C:\Users\marnk\Downloads\Video\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.exe
+C:\Users\marnk\Downloads\Video\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.pdb
+C:\Users\marnk\Downloads\Video\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.xml
+C:\Users\marnk\Downloads\Video\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.vbprojResolveAssemblyReference.cache
+C:\Users\marnk\Downloads\Video\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.DetailBarang.resources
+C:\Users\marnk\Downloads\Video\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Keranjang.resources
+C:\Users\marnk\Downloads\Video\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.MenuUser.resources
+C:\Users\marnk\Downloads\Video\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.TambahBarang.resources
+C:\Users\marnk\Downloads\Video\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.LihatBarang.resources
+C:\Users\marnk\Downloads\Video\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\marnk\Downloads\Video\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\marnk\Downloads\Video\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Regis.resources
+C:\Users\marnk\Downloads\Video\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Toko.resources
+C:\Users\marnk\Downloads\Video\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.vbproj.GenerateResource.Cache
+C:\Users\marnk\Downloads\Video\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.InvoicePrint.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.exe.config
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.exe
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.xml
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.pdb
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.exe
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.pdb
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.xml
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\mysql.data.dll
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.vbprojResolveAssemblyReference.cache
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.DetailBarang.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Keranjang.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.MenuUser.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.TambahBarang.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.LihatBarang.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Login.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Resources.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Regis.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.vbproj.GenerateResource.Cache
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.exe.config
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.exe
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.xml
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.pdb
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.exe
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.pdb
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.xml
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.vbprojResolveAssemblyReference.cache
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.DetailBarang.resources
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Keranjang.resources
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.MenuUser.resources
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.TambahBarang.resources
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.LihatBarang.resources
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Login.resources
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Resources.resources
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Regis.resources
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.vbproj.GenerateResource.Cache
+C:\Users\marnk\Downloads\pemvis\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.exe.config
+C:\Users\marnk\Downloads\pemvis\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.exe
+C:\Users\marnk\Downloads\pemvis\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.xml
+C:\Users\marnk\Downloads\pemvis\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.pdb
+C:\Users\marnk\Downloads\pemvis\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.exe
+C:\Users\marnk\Downloads\pemvis\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.pdb
+C:\Users\marnk\Downloads\pemvis\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.xml
+C:\Users\marnk\Downloads\pemvis\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.vbprojResolveAssemblyReference.cache
+C:\Users\marnk\Downloads\pemvis\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.DetailBarang.resources
+C:\Users\marnk\Downloads\pemvis\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Keranjang.resources
+C:\Users\marnk\Downloads\pemvis\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.MenuUser.resources
+C:\Users\marnk\Downloads\pemvis\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.TambahBarang.resources
+C:\Users\marnk\Downloads\pemvis\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.LihatBarang.resources
+C:\Users\marnk\Downloads\pemvis\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Login.resources
+C:\Users\marnk\Downloads\pemvis\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\marnk\Downloads\pemvis\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Regis.resources
+C:\Users\marnk\Downloads\pemvis\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.vbproj.GenerateResource.Cache
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.exe.config
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.exe
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.xml
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.pdb
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.exe
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.pdb
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.xml
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.vbprojResolveAssemblyReference.cache
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.DetailBarang.resources
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Keranjang.resources
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.MenuUser.resources
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.TambahBarang.resources
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.LihatBarang.resources
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Login.resources
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Resources.resources
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Regis.resources
+E:\Praktikum\Pemvis\PA\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.vbproj.GenerateResource.Cache
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS (6)\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.exe.config
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS (6)\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.exe
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS (6)\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.xml
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS (6)\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.pdb
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS (6)\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.exe
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS (6)\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.pdb
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS (6)\PA PEMVIS\PA PEMVIS\bin\Debug\PA PEMVIS.xml
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS (6)\PA PEMVIS\PA PEMVIS\bin\Debug\mysql.data.dll
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS (6)\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.vbprojResolveAssemblyReference.cache
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS (6)\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.DetailBarang.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS (6)\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Keranjang.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS (6)\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.MenuUser.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS (6)\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.TambahBarang.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS (6)\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.LihatBarang.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS (6)\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Login.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS (6)\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Resources.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS (6)\PA PEMVIS\PA PEMVIS\obj\Debug\WindowsApplication1.Regis.resources
+E:\Kuliah\Season 4\Praktikum\Pemvis\PA PEMVIS (6)\PA PEMVIS\PA PEMVIS\obj\Debug\PA PEMVIS.vbproj.GenerateResource.Cache
